@@ -5,9 +5,15 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
 
 Steps followed to build this model
 Importing Libraries
+
 Data Understanding
+
 Data Preparation
+
 Data Exploration
+
 Data Preprocessing
+
 Data Modeling
+
 Inference and Recomendation
