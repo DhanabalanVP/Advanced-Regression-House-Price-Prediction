@@ -17,3 +17,17 @@ Data Preprocessing
 Data Modeling
 
 Inference and Recomendation
+## Model Objective:
+
+Which variables are significant in predicting the price of a house
+How well those variables describe the price of a house.
+Also, determine the optimal value of lambda for ridge and lasso regression.
+The tasks performed in the model presented below are:
+Importing and understading the data.
+Miising value treatment and outlier analysis
+Exploratory data analysis to find out the inference about the data and its correlation with the target variables.
+Tranformation of the target variable to handle the data skewness.
+Data preprocession like Label encoding and ceration of dummies.
+Test train split and Feature scaling
+Data modelling using RFE to identify the top 30 variables.
+Ridge and Lasso Regression to find the top feature variables and finding the optimal alpha value
